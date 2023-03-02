@@ -4,6 +4,7 @@ import seedu.address.commons.core.index.Index;
 import seedu.address.model.Model;
 
 import seedu.address.logic.commands.exceptions.CommandException;
+import seedu.address.model.person.Remark;
 import static seedu.address.commons.util.CollectionUtil.requireAllNonNull;
 
 
@@ -27,13 +28,13 @@ public class RemarkCommand extends Command {
             "Remark command not implemented yet";
 
     private final Index index;
-    private final String remark;
+    private final Remark remark;
 
     /**
      * @param index of the person in the filtered person list to edit the remark
      * @param remark of the person to be updated to
      */
-    public RemarkCommand(Index index, String remark) {
+    public RemarkCommand(Index index, Remark remark) {
         requireAllNonNull(index, remark);
 
         this.index = index;
