@@ -20,7 +20,7 @@ public class RemarkCommandParser {
      * Parses the given {@code String} of arguments in the context of the
      * {@code RemarkCommand}
      * and returns a {@code RemarkCommand} object for execution.
-     * 
+     *
      * @throws ParseException if the user input does not conform the expected format
      */
     public RemarkCommand parse(String args) throws ParseException {

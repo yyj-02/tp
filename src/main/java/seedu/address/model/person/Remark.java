@@ -11,7 +11,7 @@ public class Remark {
 
     /**
      * Creates a remark object
-     * 
+     *
      * @param remark of the person
      */
     public Remark(String remark) {
