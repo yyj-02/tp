@@ -22,8 +22,6 @@ GoodMatch (GM) is a **desktop app for managing applicants and job listings, opti
   - [Deleting a job listing: `delete`](#deleting-a-job-listing-delete)
   - [Locating job listings by title: `find`](#locating-job-listings-by-title-find)
   - [Sorting job listings: `sort`](#sorting-job-listings-sort)
-  - [Filtering job listings `[coming in v2.0]`](#filtering-job-listings-coming-soon)
-  - [Tagging a job listing `[coming in v2.0]`](#tagging-a-job-listing-coming-soon)
 - [FAQ](#faq)
 - [Command Summary](#command-summary)
 
