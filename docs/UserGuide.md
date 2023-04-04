@@ -74,13 +74,13 @@ Some example commands you can try:
 ## **Features**
 Here is a list of GM features, click on them to jump to the section!
 
-1.  [`help`](#viewing-help-help)
-2.  [`list`](#listing-all-job-listings-list)
-3.  [`add`](#adding-a-job-listing-add)
-4.  [`edit`](#editing-a-job-listing-edit)
-5.  [`delete`](#deleting-a-job-listing-delete)
-6.  [`find`](#locating-job-listings-by-title-find)
-7.  [`sort`](#sorting-job-listings-sort)
+1. [`help`](#viewing-help-help)
+2. [`list`](#viewing-all-job-listings-view)
+3. [`add`](#adding-a-job-listing-add)
+4. [`edit`](#editing-a-job-listing-edit)
+5. [`delete`](#deleting-a-job-listing-delete)
+6. [`find`](#locating-job-listings-by-title-find)
+7. [`sort`](#sorting-job-listings-sort)
 
 
 <div markdown="block" class="alert alert-info">
